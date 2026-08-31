@@ -1,0 +1,17 @@
+# Python bytecode & cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (if you use virtual/conda later)
+.venv/
+venv/
+ENV/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor configurations
+.vscode/
+.idea/
