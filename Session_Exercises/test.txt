@@ -1,12 +1,2 @@
-This is the first test 
-of the ex16.1.py app
-Let's see how this turns out. 
-From this line down, everything should be new data once we run the app.
-This is the new data:
-This is the newest data available. Super TOP Secret
-This is the new data:
-Data test 2. Not as TOP Secret
-This is the new data:
-Data test 3
-This is the new data:
-New stuff
+Many of the truths that we cling to 
+are only true from a certain point of view.
